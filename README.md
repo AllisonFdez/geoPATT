@@ -15,14 +15,6 @@ _Las principales funcionalidades son:_
 npm install
 npm start
 ```
-
-## ✨Despliegue:
-
-Disponible en: [geoPATT](https://geopatt.herokuapp.com/)
-
-## ✒️Autora:
-
-**Allison E. Fernández Lobo**
 ```
 Máster Universitario en Software y Sistemas.
 Universidad Politécnica de Madrid.
